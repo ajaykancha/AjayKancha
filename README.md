@@ -39,6 +39,19 @@ Aspiring to grow in the fields of data science and artificial intelligence, I’
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjayKancha&show_icons=true&theme=radical)  
 
+Top Languages
+🤝 Let's Connect!
+LinkedIn | GitHub | Email
+
+⭐ "Transforming data into meaningful insights, one project at a time." ⭐
+
+
+
+
+
+
+
+
 
 
 <!--
