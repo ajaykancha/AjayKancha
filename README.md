@@ -39,9 +39,12 @@ Aspiring to grow in the fields of data science and artificial intelligence, I’
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjayKancha&show_icons=true&theme=radical)  
 
-Top Languages
-🤝 Let's Connect!
-LinkedIn | GitHub | Email
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/ajay-kanche-731817216/))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AjayKancha)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaykancha89@gmail.com)
+
 
 ⭐ "Transforming data into meaningful insights, one project at a time." ⭐
 
