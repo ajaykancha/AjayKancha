@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ajay Kancha  
 **Amateur AI Student | Data Science & Analytics Enthusiast**  
 
-Aspiring to grow in the fields of data science and artificial intelligence, I’m currently building hands-on skills through real-world projects and continuous learning.  
+Data Analyst passionate about turning data into actionable insights, while continuously advancing skills in analytics, visualization, and AI-driven solutions. 
 
 📧 **Contact:** ajaykancha89@gmail.com | 📱 +91 7032304065 
 
