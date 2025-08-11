@@ -3,7 +3,7 @@
 
 Aspiring to grow in the fields of data science and artificial intelligence, I’m currently building hands-on skills through real-world projects and continuous learning.  
 
-📧 **Contact:** your-email@example.com | 📱 +91 your-number  
+📧 **Contact:** ajaykancha89@gmail.com | 📱 +91 7032304065 
 
 ---
 
