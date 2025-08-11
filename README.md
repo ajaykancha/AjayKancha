@@ -7,16 +7,6 @@ Data Analyst passionate about turning data into actionable insights, while conti
 
 ---
 
-## 🛠️ Tech Stack  
-
-# Hi there! 👋 I'm Ajay Kancha  
-**Amateur AI Student | Data Science & Analytics Enthusiast**  
-
-Aspiring to grow in the fields of data science and artificial intelligence, I’m currently building hands-on skills through real-world projects and continuous learning.  
-
-📧 **Contact:** your-email@example.com | 📱 +91 your-number  
-
----
 
 ## 🛠️ Tech Stack  
 
