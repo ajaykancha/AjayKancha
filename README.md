@@ -46,6 +46,7 @@ Aspiring to grow in the fields of data science and artificial intelligence, I’
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaykancha89@gmail.com)
 
 
+
 ⭐ "Transforming data into meaningful insights, one project at a time." ⭐
 
 
